@@ -5,6 +5,7 @@ export default function Home() {
         <>
             <div className="text-center">
                 <p>Seja bem-vindo Hooper</p>
+                
             </div>
         </>
     );

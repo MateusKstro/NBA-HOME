@@ -30,8 +30,8 @@ export default function Temporada() {
   return (
     <div className="flex flex-col items-center p-6">
       <h1 className="text-3xl font-bold mb-6">🏆 Classificação da Temporada 🏆</h1>
-      
-      <div className="flex flex-wrap justify-center gap-8">  
+
+      <div className="flex flex-wrap justify-center gap-8">
         <div className="w-80 border rounded-lg shadow-md bg-white p-4">
           <h2 className="text-xl font-semibold text-center mb-3"> Leste </h2>
           <ul>
@@ -47,7 +47,7 @@ export default function Temporada() {
           </ul>
         </div>
 
-        
+
         <div className="w-80 border rounded-lg shadow-md bg-white p-4">
           <h2 className="text-xl font-semibold text-center mb-3"> Oeste </h2>
           <ul>
